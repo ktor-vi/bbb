@@ -6,10 +6,14 @@ It's useless, but who cares ? It's fun !
 
 Blinest uses Apple Music/Deezer previews to fetch copyright protected music, *smort* .
 
-### First install selenium-wire : 
+You need to have ffmpeg installed on your system
 
-``` pip install selenium-wire ```
+### First install selenium-wire and shazamio: 
+
+``` pip3 install selenium-wire shazamio ```
 
 ### Launch it : 
 
 ``` python3 bbb.py ```
+
+### Profit.
